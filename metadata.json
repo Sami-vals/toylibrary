@@ -1,0 +1,7 @@
+{
+  "name": "Toy Library Tracker",
+  "description": "A multilingual mobile-first web application for managing a community toy library with QR code tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
